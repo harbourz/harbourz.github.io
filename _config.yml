@@ -9,7 +9,7 @@ owner:
   avatar: Haobo.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: harbourz@163.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://harbourz.github.io/file/CV_HaoboZHANG.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
@@ -17,7 +17,7 @@ owner:
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: 379833464
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
+  zhihu: https://www.zhihu.com/people/kying-nying
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -37,19 +37,19 @@ owner:
 links:
   - title: About Me
     url: /
-  #- title: Publications
-  #  url: /publications/
+  # - title: Publications
+  #   url: /publications/
   # - title: Awards
   #   url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Startups
   #   url: /startups/
   # - title: Blogs
   #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: US/Eastern
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -78,9 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: haobozhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.

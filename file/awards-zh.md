@@ -4,7 +4,7 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/05/20 &nbsp; [English Version (英文)](https://caihanlin.com/awards/)
+<!-- > 更新时间：2024/05/20 &nbsp; [English Version (英文)](https://caihanlin.com/awards/)
 
 ## 综合奖学金
 
@@ -51,5 +51,5 @@ title: Awards-zh
 - 2021年05月：福州大学年度三好学生
 - 2021年09月-2022年09月：福州大学团委志愿者工作部副部长
 - 2020年09月-2021年09月：福州大学梅努斯国际工程学院班长
-- 2022年09月至今：IEEE协会，AAAI协会，中国人工智能学会CAAI（学生会员）
+- 2022年09月至今：IEEE协会，AAAI协会，中国人工智能学会CAAI（学生会员） -->
 

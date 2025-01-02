@@ -4,7 +4,7 @@ permalink: /file/publications-zh/index.html
 title: Publications-zh
 ---
 
-> 更新时间：2024/01/28 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
+<!-- > 更新时间：2024/01/28 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
 
 ## 数学建模竞赛论文
 
@@ -28,4 +28,4 @@ title: Publications-zh
 
 ## 毕业设计论文
 
-- [面向低功耗蓝牙网络的复合型欺骗攻击检测机制](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2023/12 — 2024/05）<br>本项目以海报论文形式，发表在AAAI 2024 UC，计划进一步投稿至KDD 2024
+- [面向低功耗蓝牙网络的复合型欺骗攻击检测机制](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2023/12 — 2024/05）<br>本项目以海报论文形式，发表在AAAI 2024 UC，计划进一步投稿至KDD 2024 -->
