@@ -18,14 +18,12 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any relevant information, please contact me!</font>**
 
-My research intersts include but are not limited to the following:
+My research intersts my research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Mathematics, and Economics, which include but are not limited to the following:
 
 - Online Algorithm
 - Decision Making
 - Stochastic Modelling
 - Optimization of Stochastic Systems
-
-In fact, my research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Mathematics, and Economics.
 
 <!-- ---
 
