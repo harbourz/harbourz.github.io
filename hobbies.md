@@ -10,6 +10,7 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/richiimahjong.jpg">
+<img src="/images/richiimahjong2.jpg">
 </div>
 <br> Recently, I've become a passionate fan of Riichi Mahjong, a Japanese variant of the ancient Chinese game of mahjong. It's a highly intense and exciting game that combines game theory, combinatorial optimization, and stochastic modeling.
 
