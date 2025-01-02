@@ -12,7 +12,7 @@ title: Hobbies
 <img src="/images/richiimahjong.jpg">
 <img src="/images/richiimahjong2.jpg">
 </div>
-<br> Recently, I've become a passionate fan of Riichi Mahjong, a Japanese variant of the ancient Chinese game of mahjong. It's a highly intense and exciting game that combines game theory, combinatorial optimization, and stochastic modeling.
+<br> Recently, I've become a passionate fan of [Riichi Mahjong](https://en.wikipedia.org/wiki/Japanese_mahjong), a Japanese variant of the ancient Chinese game of mahjong. It's a highly intense and exciting game that combines game theory, combinatorial optimization, and stochastic modeling.
 
 ## Animes & Visual Novels
 
@@ -20,7 +20,7 @@ title: Hobbies
 <img src="/images/hunterxhunter.jpg">
 <img src="/images/ragingloop.jpg">
 </div>
-<br> I'm a huge fan of animes and visual novels. Essentially, I enjoy the boundless imagination they convey. My favorite anime is *Hunter × Hunter* and my favorite visual novel is *Raging Loop*.
+<br> I'm a huge fan of animes and visual novels. Essentially, I enjoy the boundless imagination they convey. My favorite anime is [*Hunter × Hunter*](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter) and my favorite visual novel is [*Raging Loop*](https://en.wikipedia.org/wiki/Raging_Loop).
 
 
 
