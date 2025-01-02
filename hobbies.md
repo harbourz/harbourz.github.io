@@ -9,15 +9,15 @@ title: Hobbies
 ## Richii Mahjong
 
 <div class="third">
-<img src="/images/richiimahjong.JPG">
+<img src="/images/richiimahjong.jpg">
 </div>
 <br> Recently, I've become a passionate fan of Riichi Mahjong, a Japanese variant of the ancient Chinese game of mahjong. It's a highly intense and exciting game that combines game theory, combinatorial optimization, and stochastic modeling.
 
 ## Animes & Visual Novels
 
 <div class="third">
-<img src="/images/hunterxhunter.JPG">
-<img src="/images/ragingloop.JPG">
+<img src="/images/hunterxhunter.jpg">
+<img src="/images/ragingloop.jpg">
 </div>
 <br> I'm a huge fan of animes and visual novels. Essentially, I enjoy the boundless imagination they convey. My favorite anime is *Hunter × Hunter* and my favorite visual novel is *Raging Loop*.
 
