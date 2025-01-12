@@ -23,7 +23,7 @@ My research intersts can be best summarized as the intersections of any two of t
 - Online Algorithm
 - Decision Making
 - Mechanism Design
-- Stochastic Modeling
+- Stochastic Modeling & Optimization
 
 <!-- ---
 
