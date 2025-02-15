@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://harbourz.github.io/haobozhang.jpg" class="floatpic">
 
-Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in English can be represented as /haʊbɔː tʃɑːŋ/ using [Daniel Jones Phonetic Symbol](https://en.wikipedia.org/wiki/Daniel_Jones_(phonetician)).<br>
+Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in English can be represented as /haʊbɔː tʃɑːŋ/ using [Daniel Jones Phonetic Symbol](https://dictionary.cambridge.org/help/phonetics.html).<br>
 
 I am a MS student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. Prior to Gatech, I received my BA in Economics & BS in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. For more information, you can find my [CV](https://harbourz.github.io/file/CV_HaoboZHANG.pdf) here.
 
