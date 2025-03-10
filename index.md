@@ -20,6 +20,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 My research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Mathematics, and Economics, which include but are not limited to the following:
 
+- Randomized Algorithm
 - Online Algorithm
 - Decision Making
 - Mechanism Design
