@@ -10,7 +10,7 @@ Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in Eng
 
 I am an MS student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. Prior to Gatech, I received my BA in Economics & BS in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. For more information, you can refer to my [CV](https://harbourz.github.io/file/CV_HaoboZHANG.pdf).
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - harbourz [at] 163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - harbourz [at] 163.com.
 
 ---
 
@@ -20,10 +20,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 My research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Mathematics, and Economics, which include but are not limited to the following:
 
-- Randomized Algorithm
+- Algorithmic Game Theory
 - Online Algorithm
 - Decision Making
-- Mechanism Design
+- Randomized Algorithm
 - Stochastic Modeling & Optimization
 
 <!-- ---
