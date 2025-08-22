@@ -8,8 +8,10 @@ layout: page
 
 Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in English can be represented as /haʊbɔː tʃɑːŋ/ using [Daniel Jones Phonetic Symbol](https://dictionary.cambridge.org/help/phonetics.html).<br>
 
-I am an MS student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. I am thrilled to be working on the research project "Incentivizing data sharing with heterogeneous privacy costs" with the guidance of [Prof. Juba Ziani](https://sites.gatech.edu/juba-ziani/) and [Prof. Kate Donahue](https://www.katedonahue.me/) . Prior to Gatech, I received my BA in Economics & BS in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. For more information, you can refer to my [CV](https://harbourz.github.io/file/CV_HaoboZHANG.pdf).
-s
+I am an MS student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. I am thrilled to be working on the research project "Incentivizing data sharing with heterogeneous privacy costs" with the guidance of [Prof. Juba Ziani](https://sites.gatech.edu/juba-ziani/) and [Prof. Kate Donahue](https://www.katedonahue.me/) . 
+
+Prior to Gatech, I received my BA in Economics & BS in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. For more information, you can refer to my [CV](https://harbourz.github.io/file/CV_HaoboZHANG.pdf).
+
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - harbourz [at] 163.com.
 
 ---
