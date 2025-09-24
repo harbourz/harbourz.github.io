@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position in IEOR, CS or any other related fields for Fall 2026 admission. If you have any relevant information, please contact me!</font>**
 
-My research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Mathematics, and Economics, which include but are not limited to the following:
+My research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Operations Research, and Economics, which include but are not limited to the following:
 
 - Algorithmic Game Theory
 - Online Algorithm
