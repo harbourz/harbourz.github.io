@@ -24,7 +24,7 @@ My research interests can be best summarized as the intersections of any two of 
 
 - Algorithmic Game Theory
 - Mechanism and Market Design
-- Decision Making
+- Learning and Decision Making
 - Online/Randomized Algorithm
 - Stochastic Modeling & Optimization
 
