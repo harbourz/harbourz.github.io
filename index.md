@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 My research interests can be best summarized as the intersections of any two of the three fields: Computer Science, Operations Research, and Economics, which include but are not limited to the following:
 
 - Algorithmic Game Theory
-- Learning & Decision Making
+- Machine Learning & Decision Making
 - Online & Randomized Algorithm
 - Stochastic Modeling & Optimization
 
