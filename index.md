@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://harbourz.github.io/haobozhang.jpg" class="floatpic">
 
-Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in English can be represented as /haʊbɔː tʃɑːŋ/ using [Daniel Jones Phonetic Symbols](https://dictionary.cambridge.org/help/phonetics.html).<br>
+Here is **Haobo Zhang (张浩博)**. The closest pronunciation of my name in English can be represented as /haʊbɔː tʃɑːŋ/ using [Daniel Jones Phonetic Symbols](https://dictionary.cambridge.org/help/phonetics.html), or approximately, "HOW-bwo CHAHNG".<br>
 
 I am an MS student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. I am thrilled to be working on the research project "Incentivizing data sharing with heterogeneous privacy costs" with the guidance of [Prof. Juba Ziani](https://sites.gatech.edu/juba-ziani/) and [Prof. Kate Donahue](https://www.katedonahue.me/). 
 
