@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-Spring-teaching-1
 venue: "Georgia Tech, ISyE"
-date: Spring 2025
+date: 2025-01-01
 location: "Atlanta, GA"
 ---
 
