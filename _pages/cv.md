@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Industrial and Systems Engineering, University of Southern California, 2030 (expected)
+* MS in Operations Research, Georgia Institute of Technology, 2025
+* BA in Economics, Shanghai Jiao Tong University, 2024
+* BS in Mathematics and Applied Mathematics, Shanghai Jiao Tong University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
