@@ -8,4 +8,4 @@ date: 2025-01-01
 location: "Atlanta, GA"
 ---
 
-ISyE 2027 Probability With Applications
+ISyE 2027 Probability With Applications, Spring 2025

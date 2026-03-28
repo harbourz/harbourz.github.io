@@ -8,4 +8,4 @@ date: 2025-08-01
 location: "Atlanta, GA"
 --- 
 
-ISyE 3133 Engineering Optimization
+ISyE 3133 Engineering Optimization, Fall 2025
