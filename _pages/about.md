@@ -18,5 +18,3 @@ My research interests can be best summarized as the intersections of any two of 
 - Machine Learning & Decision Making
 - Online & Randomized Algorithm
 - Stochastic Modeling & Optimization
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=uzy-U3jPSZyQn7IinBrJ7AohU0i-kScX5ToZ1BAgXok&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
