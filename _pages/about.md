@@ -19,4 +19,4 @@ My research interests can be best summarized as the intersections of any two of 
 - Online & Randomized Algorithm
 - Stochastic Modeling & Optimization
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3AckKjr5iOXMYqf74jKA9rwUydN31rdppf7IpJ7YmBo&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=3AckKjr5iOXMYqf74jKA9rwUydN31rdppf7IpJ7YmBo'></script>
