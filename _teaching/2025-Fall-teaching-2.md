@@ -1,5 +1,5 @@
 ---
-title: "Tutor for ISyE 3133"
+title: "Tutor for ISyE 3133 (25Fall, Gatech)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-Fall-teaching-2
