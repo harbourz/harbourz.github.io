@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Industrial and Systems Engineering, University of Southern California, 2031 (expected)
+* MS in Computer Science, University of Southern California, 2028 (expected)
 * MS in Operations Research, Georgia Institute of Technology, 2025
 * BS in Mathematics and Applied Mathematics, Shanghai Jiao Tong University, 2024
 * BA in Economics, Shanghai Jiao Tong University, 2024
